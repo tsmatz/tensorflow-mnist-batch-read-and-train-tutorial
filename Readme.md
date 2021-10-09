@@ -1,4 +1,4 @@
-# TensorFlow's MNIST Tutorial with TFRecord Batch Reading
+# TensorFlow 1.x Tutorial with TFRecord Batch Reading
 
 This sample (mnist_tf.py) shows end-to-end implementation using well-known [MNIST dataset](http://yann.lecun.com/exdb/mnist/) (hand-writing digits image dataset) and mini-batch reading from scratch (without any helper functions).
 
